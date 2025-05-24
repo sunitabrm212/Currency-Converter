@@ -27,3 +27,8 @@ A simple and interactive currency converter web application built using HTML, CS
     <li>app.js # Main JavaScript logic for conversion and UI interactions</li>
     <li>codes.js # Country code and currency mapping</li>
 </ul>
+
+## Credits
+
+This project is based on a tutorial by [Shradha Khapra](https://www.youtube.com/watch?v=CyGodpqcid4). 
+It was recreated for learning and practice purposes.

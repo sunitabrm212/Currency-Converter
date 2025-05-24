@@ -21,8 +21,9 @@ A simple and interactive currency converter web application built using HTML, CS
 
 ## Project Structure
 
-.
-├── index.html # Main HTML structure
-├── style.css # Stylesheet (linked but not included in uploads)
-├── app.js # Main JavaScript logic for conversion and UI interactions
-├── codes.js # Country code and currency mapping
+<ul>
+    <li>index.html # Main HTML structure</li>
+    <li>style.css # Stylesheet for layout and design</li>
+    <li>app.js # Main JavaScript logic for conversion and UI interactions</li>
+    <li>codes.js # Country code and currency mapping</li>
+</ul>
